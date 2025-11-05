@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+freenove_base/Freenove_Big_Hexapod/data/recordings/*.json
+freenove_base/Freenove_Big_Hexapod/data/reports/*.txt
+config/*.local.json

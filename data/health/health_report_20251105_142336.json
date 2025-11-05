@@ -1,0 +1,69 @@
+{
+  "generated_at": "2025-11-05T14:23:36.675201",
+  "summary": {
+    "timestamp": "2025-11-05T14:23:36.675215",
+    "total_servos": 3,
+    "servos_by_status": {
+      "HEALTHY": 3
+    },
+    "recent_alerts": [
+      {
+        "timestamp": "2025-11-05T14:23:24.666788",
+        "servo": "test_servo_1",
+        "level": "WARNING",
+        "message": "Current high: 814.4253281003029mA (threshold: 800.0mA)"
+      },
+      {
+        "timestamp": "2025-11-05T14:23:26.663858",
+        "servo": "test_servo_1",
+        "level": "WARNING",
+        "message": "Temperature high: 61.02521978927291\u00b0C (threshold: 60.0\u00b0C)"
+      },
+      {
+        "timestamp": "2025-11-05T14:23:26.667515",
+        "servo": "test_servo_0",
+        "level": "WARNING",
+        "message": "Current high: 879.3370464367749mA (threshold: 800.0mA)"
+      },
+      {
+        "timestamp": "2025-11-05T14:23:26.667870",
+        "servo": "test_servo_2",
+        "level": "WARNING",
+        "message": "Current high: 801.703831639448mA (threshold: 800.0mA)"
+      },
+      {
+        "timestamp": "2025-11-05T14:23:30.673770",
+        "servo": "test_servo_0",
+        "level": "WARNING",
+        "message": "Temperature high: 68.29233222643506\u00b0C (threshold: 60.0\u00b0C)"
+      },
+      {
+        "timestamp": "2025-11-05T14:23:30.674469",
+        "servo": "test_servo_2",
+        "level": "WARNING",
+        "message": "Current high: 892.536738037039mA (threshold: 800.0mA)"
+      },
+      {
+        "timestamp": "2025-11-05T14:23:32.672625",
+        "servo": "test_servo_1",
+        "level": "WARNING",
+        "message": "Current high: 861.9133204924168mA (threshold: 800.0mA)"
+      },
+      {
+        "timestamp": "2025-11-05T14:23:32.676679",
+        "servo": "test_servo_2",
+        "level": "WARNING",
+        "message": "Temperature high: 67.21659521122245\u00b0C (threshold: 60.0\u00b0C)"
+      },
+      {
+        "timestamp": "2025-11-05T14:23:34.679142",
+        "servo": "test_servo_1",
+        "level": "WARNING",
+        "message": "Current high: 887.077177760677mA (threshold: 800.0mA)"
+      }
+    ],
+    "statistics": {
+      "total_alerts": 9,
+      "critical_alerts": 0,
+      "warnings": 9,
+      "monitoring_start": 

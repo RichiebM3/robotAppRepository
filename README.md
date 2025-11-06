@@ -647,21 +647,9 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/YOUR_USERNAME/SpiderPi.git
-cd SpiderPi
+git clone https://github.com/RichiebM3/robotAppRepository
+cd robotAppRepository
 
-# Create a branch
-git checkout -b feature/your-feature-name
-
-# Make changes and test
-python tests/test_servo_enhanced.py
-
-# Commit and push
-git add .
-git commit -m "Add: your feature description"
-git push origin feature/your-feature-name
-
-# Create pull request on GitHub
 ```
 
 ### **Code Standards**
@@ -708,15 +696,14 @@ SOFTWARE.
 - **Freenove** - For the excellent hexapod robot platform
 - **Raspberry Pi Foundation** - For the amazing Raspberry Pi
 - **Python Community** - For the incredible ecosystem
-- **Contributors** - Everyone who has helped improve this project
-
+- **Contributors** - Azure 
 ---
 
 ## 📧 **Contact & Support**
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/SpiderPi/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/SpiderPi/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/RichiebM3/robotAppRepository/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/RichiebM3/robotAppRepository/discussions)
+- **Email**: Rbruce85@uw.edu
 
 ---
 

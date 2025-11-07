@@ -99,7 +99,7 @@ SpiderPi is an enhanced servo control system designed for the Freenove hexapod r
 ### **Clone Repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SpiderPi.git
+git clone https://github.com/RichiebM3/SpiderPi.git
 cd SpiderPi
 ```
 
